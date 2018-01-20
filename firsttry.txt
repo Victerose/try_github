@@ -1,2 +1,6 @@
 print("Hellow World!!");
+<<<<<<< HEAD
 ~~~~
+=======
+....
+>>>>>>> 94e24c0aa8a9d6df433337adfe2ae3dd9feb7c44
